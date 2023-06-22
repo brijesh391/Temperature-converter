@@ -1,4 +1,4 @@
 This is a temperature convertor web application.
-Converts temperature (in C, F or K) to other units.
+Converts temperature in C, F and K units.
 
-This is created using HTML, CSS, Bootstrap, JavaScript
+This is created using HTML, CSS, JavaScript
