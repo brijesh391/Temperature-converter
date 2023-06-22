@@ -27,18 +27,19 @@ body{
   }
   
   .form-padding {
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
+    margin-bottom: 30px;
   }
   
   ::-webkit-input-placeholder {
-    color: #FFFFFF;
+    color: #FFFFFF ;
   }
   ::-moz-placeholder {
-    color: #FFFFFF;
+    color: #FFFFFF ;
   }
   :-ms-input-placeholder {
-    color: #FFFFFF;
+    color: #FFFFFF ;
   }
   :-moz-placeholder {
-    color: #FFFFFF;
+    color: #FFFFFF ;
   }
