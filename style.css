@@ -31,14 +31,14 @@ body{
   }
   
   ::-webkit-input-placeholder {
-    color: #FFFFFF !important;
+    color: #FFFFFF;
   }
   ::-moz-placeholder {
-    color: #FFFFFF !important;
+    color: #FFFFFF;
   }
   :-ms-input-placeholder {
-    color: #FFFFFF !important;
+    color: #FFFFFF;
   }
   :-moz-placeholder {
-    color: #FFFFFF !important;
+    color: #FFFFFF;
   }
